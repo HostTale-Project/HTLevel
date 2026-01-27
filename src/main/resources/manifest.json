@@ -1,0 +1,22 @@
+{
+    "Group": "HostTale",
+    "Name": "HTLevelSystem",
+    "Version": "1.0.0",
+    "Description": "Level system",
+    "Authors": [
+        {
+            "Name": "Federico J. Leiva"
+        }
+    ],
+    "Website": "wiki.hosttale.com",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.hosttale.htlevelsystem.HTLevelSystem",
+    "IncludesAssetPack": true
+}
